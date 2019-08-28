@@ -1,0 +1,22 @@
+C:\Users\PRINCE\Desktop\C#_VS\bin\Debug\netcoreapp2.2\C#_VS.deps.json
+C:\Users\PRINCE\Desktop\C#_VS\bin\Debug\netcoreapp2.2\C#_VS.runtimeconfig.json
+C:\Users\PRINCE\Desktop\C#_VS\bin\Debug\netcoreapp2.2\C#_VS.runtimeconfig.dev.json
+C:\Users\PRINCE\Desktop\C#_VS\bin\Debug\netcoreapp2.2\C#_VS.dll
+C:\Users\PRINCE\Desktop\C#_VS\bin\Debug\netcoreapp2.2\C#_VS.pdb
+C:\Users\PRINCE\Desktop\C#_VS\obj\Debug\netcoreapp2.2\C#_VS.csprojAssemblyReference.cache
+C:\Users\PRINCE\Desktop\C#_VS\obj\Debug\netcoreapp2.2\C#_VS.csproj.CoreCompileInputs.cache
+C:\Users\PRINCE\Desktop\C#_VS\obj\Debug\netcoreapp2.2\C#_VS.AssemblyInfoInputs.cache
+C:\Users\PRINCE\Desktop\C#_VS\obj\Debug\netcoreapp2.2\C#_VS.AssemblyInfo.cs
+C:\Users\PRINCE\Desktop\C#_VS\obj\Debug\netcoreapp2.2\C#_VS.dll
+C:\Users\PRINCE\Desktop\C#_VS\obj\Debug\netcoreapp2.2\C#_VS.pdb
+C:\Users\PRINCE\Desktop\C# Class\C#_VS\bin\Debug\netcoreapp2.2\C#_VS.deps.json
+C:\Users\PRINCE\Desktop\C# Class\C#_VS\bin\Debug\netcoreapp2.2\C#_VS.runtimeconfig.json
+C:\Users\PRINCE\Desktop\C# Class\C#_VS\bin\Debug\netcoreapp2.2\C#_VS.runtimeconfig.dev.json
+C:\Users\PRINCE\Desktop\C# Class\C#_VS\bin\Debug\netcoreapp2.2\C#_VS.dll
+C:\Users\PRINCE\Desktop\C# Class\C#_VS\bin\Debug\netcoreapp2.2\C#_VS.pdb
+C:\Users\PRINCE\Desktop\C# Class\C#_VS\obj\Debug\netcoreapp2.2\C#_VS.csprojAssemblyReference.cache
+C:\Users\PRINCE\Desktop\C# Class\C#_VS\obj\Debug\netcoreapp2.2\C#_VS.csproj.CoreCompileInputs.cache
+C:\Users\PRINCE\Desktop\C# Class\C#_VS\obj\Debug\netcoreapp2.2\C#_VS.AssemblyInfoInputs.cache
+C:\Users\PRINCE\Desktop\C# Class\C#_VS\obj\Debug\netcoreapp2.2\C#_VS.AssemblyInfo.cs
+C:\Users\PRINCE\Desktop\C# Class\C#_VS\obj\Debug\netcoreapp2.2\C#_VS.dll
+C:\Users\PRINCE\Desktop\C# Class\C#_VS\obj\Debug\netcoreapp2.2\C#_VS.pdb
